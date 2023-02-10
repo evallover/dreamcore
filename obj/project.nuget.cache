@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o156SH99np26UOgagCQgDHV7h2BhLfgOLeAr1jluzyr/BAm7jMb2QzXRy58g6tvplv3CKfqaRQ+YGPp4caSHDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\учеба\\kyoto\\kyoto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.12\\microsoft.netcore.app.host.win-x86.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
